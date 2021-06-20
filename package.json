@@ -17,6 +17,11 @@
     "url": "git+https://github.com/Paulinho89/caoyp-cli.git"
   },
   "author": "caoyp",
+  "keywords": [
+    "caoyp-cli",
+    "caoyp",
+    "脚手架"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Paulinho89/caoyp-cli/issues"
